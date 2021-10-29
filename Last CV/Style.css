@@ -1,0 +1,14 @@
+body
+{
+	background-color: grey;
+}
+
+
+img
+{
+	border: 5px solid lightgrey;
+	border-radius: 10px;
+	text-align: center;
+	margin: auto;
+	display: flex;
+}
